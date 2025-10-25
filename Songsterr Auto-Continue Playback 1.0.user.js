@@ -5,6 +5,7 @@
 // @description  Automatically clicks "continue playback" popup on Songsterr
 // @match        https://www.songsterr.com/*
 // @grant        none
+// @icon         https://www.songsterr.com/favicon.ico
 // ==/UserScript==
 
 (function() {
