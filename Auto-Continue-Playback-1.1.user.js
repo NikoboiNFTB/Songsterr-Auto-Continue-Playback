@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name         Songsterr - Auto-Continue Playback
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/NikoboiNFTB/Songsterr-Tweaks/
 // @version      1.1
-// @description  Automatically clicks "continue playback" or "continue with interruptions" popup on Songsterr
+// @description  Automatically clicks "continue playback" or "continue with interruptions" popup on Songsterr.
+// @author       Nikoboi
 // @match        https://www.songsterr.com/*
 // @grant        none
 // @icon         https://www.songsterr.com/favicon.ico
