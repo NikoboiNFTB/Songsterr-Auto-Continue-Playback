@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Songsterr Auto-Continue Playback
+// @name         Songsterr - Auto-Continue Playback
 // @namespace    http://tampermonkey.net/
 // @version      1.1
 // @description  Automatically clicks "continue playback" or "continue with interruptions" popup on Songsterr
