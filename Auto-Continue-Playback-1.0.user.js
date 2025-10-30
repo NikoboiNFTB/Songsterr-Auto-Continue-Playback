@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name         Songsterr - Auto-Continue Playback
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/NikoboiNFTB/Songsterr-Tweaks/
 // @version      1.0
 // @description  Automatically clicks "continue playback" popup on Songsterr
+// @author       Nikoboi
 // @match        https://www.songsterr.com/*
 // @grant        none
 // @icon         https://www.songsterr.com/favicon.ico
